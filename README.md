@@ -1,4 +1,4 @@
-# sshconf-upsert #
+# sshconf-upsert [![Build Status](https://travis-ci.org/hughsk/sshconf-upsert.png?branch=master)](https://travis-ci.org/hughsk/sshconf-upsert)
 
 Upsert hosts into your `~/.ssh/config` file(s).
 
