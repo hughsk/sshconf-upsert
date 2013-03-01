@@ -1,0 +1,30 @@
+{
+  "name": "sshconf-upsert",
+  "version": "0.0.1",
+  "description": "Upsert hosts into ~/.ssh/config file(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/sshconf-upsert.git"
+  },
+  "dependencies": {
+    "sshconf-stream": "0.1.2",
+    "first-match": "0.0.1"
+  },
+  "devDependencies": {
+    "tape": "~0.2.2"
+  },
+  "keywords": [
+    "SSH",
+    "configuration",
+    "insert",
+    "update",
+    "hostnames",
+    "keywords"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT"
+}
