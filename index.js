@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var ssh = require('sshconf-stream')
   , first = require('first-match')
 
